@@ -40,7 +40,7 @@ function validateForm() {
     }
 
     if (address == "") {
-        alert("address must be filled out");
+        alert("Address must be filled out");
         return false;
     }
 
