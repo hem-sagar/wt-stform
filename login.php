@@ -50,23 +50,7 @@
 			}
 		} else {
 		?>
-			<!-- <form  method="post" action="" >
-			<div class="mb-3 row">
-				<label for="inputUser" class="col-sm-2 col-form-label">Username</label>
-				<div class="col-sm-10">
-					<input type="text" name="username" class="form-control">
-				</div>
-			</div>
-			<div class="mb-3 row">
-				<label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
-				<div class="col-sm-10">
-					<input type="password" name="password1" class="form-control" >
-				</div>
-			</div>
-			<div class="col-12">
-				<input type="submit" class="btn btn-primary" name="submit" value="Login">
-			</div>
-		</form> -->
+			
 		<div style=" width: 50%; margin: 50px auto;">    
                 <form name="form2" class="row g-3 needs-validation" novalidate method="post">
                     <div class="col-md-10">
@@ -91,9 +75,6 @@
 		<?php
 		}
 		?>
-
-		<!-- <a href="login.php">login</a> -->
-		<!-- <a href="index.php">Home</a> -->
 		</div>
 	</body>
 </html>
